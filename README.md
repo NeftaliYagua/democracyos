@@ -49,4 +49,6 @@ Icons made by [Jamal Jama](https://twitter.com/byjml) and [Ahmad Firoz](https://
 
 ## License
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 DemocracyOS is open source software under the GPL v3.0 license. Please see full terms in the [LICENSE](LICENSE) file.
